@@ -1,5 +1,4 @@
 Admin=76561197997711497:Whitelist // [[ROM]] Acemantura
-Admin=76561198013904448:Whitelist // [[ROM]] ADDRAC
 Admin=76561198205666325:Whitelist // [[ROM]] Anul
 Admin=76561199752159580:Whitelist // [[ROM]] AQUA
 Admin=76561199024029674:Whitelist // [[ROM]] Avluey
@@ -34,7 +33,6 @@ Admin=76561198068960149:Whitelist // [[ROM]] Stofk
 Admin=76561198041602636:Whitelist // [[ROM]] Talakrin
 Admin=76561198174711263:Whitelist // [[ROM]] TheDonut
 Admin=76561199737931584:Whitelist // [[ROM]] TimberWolf1513
-Admin=76561198111733602:Whitelist // [[ROM]] VeryTasty
 Admin=76561198096729481:Whitelist // [[ROM]] Vhantom
 Admin=76561198153749806:Whitelist // [[ROM]] ViperActual
 Admin=76561198041914020:Whitelist // [[ROM]] WickActual
