@@ -3,6 +3,7 @@ Group=Whitelist:reserve
 Admin=76561197997711497:Whitelist // [[ROM]] Acemantura
 Admin=76561198205666325:Whitelist // [[ROM]] Anul
 Admin=76561199752159580:Whitelist // [[ROM]] AQUA
+Admin=76561198074540802:Whitelist // [[ROM]] arty_fm
 Admin=76561198356556537:Whitelist // [[ROM]] asbestium
 Admin=76561199024029674:Whitelist // [[ROM]] Avluey
 Admin=76561198971594388:Whitelist // [[ROM]] balacavaboi
