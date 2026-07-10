@@ -38,3 +38,4 @@ Admin=76561198135516105:Whitelist // [[ROM]] Usidore
 Admin=76561198096729481:Whitelist // [[ROM]] Vhantom
 Admin=76561198153749806:Whitelist // [[ROM]] ViperActual
 Admin=76561198041914020:Whitelist // [[ROM]] WickActual
+Admin=76561197994851876:Whitelist // [[ROM]] wolfgnads
