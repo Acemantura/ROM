@@ -33,6 +33,7 @@ Admin=76561199259834851:Whitelist // [[ROM]] Sundaydrver
 Admin=76561198041602636:Whitelist // [[ROM]] Talakrin
 Admin=76561198174711263:Whitelist // [[ROM]] TheDonut
 Admin=76561199737931584:Whitelist // [[ROM]] TimberWolf1513
+Admin=76561198132825567:Whitelist // [[ROM]] Trunkmonkey05
 Admin=76561198135516105:Whitelist // [[ROM]] Usidore
 Admin=76561198096729481:Whitelist // [[ROM]] Vhantom
 Admin=76561198153749806:Whitelist // [[ROM]] ViperActual
