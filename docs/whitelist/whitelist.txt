@@ -21,6 +21,7 @@ Admin=76561198018963672:Whitelist // [[ROM]] 「|Ξvolved Spoon」
 Admin=76561199099853925:Whitelist // [[ROM]] GoochGobbler
 Admin=76561197972940439:Whitelist // [[ROM]] Hawkins.D
 Admin=76561198371722547:Whitelist // [[ROM]] Kettner.S
+Admin=76561198085374416:Whitelist // [[ROM]] MagicTux
 Admin=76561198390361495:Whitelist // [[ROM]] Mattcha
 Admin=76561198025552657:Whitelist // [[ROM]] MurphMan
 Admin=76561198020109991:Whitelist // [[ROM]] No_Chance
