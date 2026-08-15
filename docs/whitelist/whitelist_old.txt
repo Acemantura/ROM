@@ -1,0 +1,16 @@
+Admin=76561198018963672:Whitelist // [[ROM]] 「|Ξvolved Spoon」
+Admin=76561199533950635:Whitelist // [[ROM]] Discipline7
+Admin=76561198205666325:Whitelist // [[ROM]] Anul
+Admin=76561199752159580:Whitelist // [[ROM]] AQUA
+Admin=76561199024029674:Whitelist // [[ROM]] Avluey
+Admin=76561198782323804:Whitelist // [[ROM]] batman131
+Admin=76561198135875135:Whitelist // [[ROM]] Big Cheese Boy
+Admin=76561198011338303:Whitelist // [[ROM]] Coke Badger 420
+Admin=76561198212783816:Whitelist // [[ROM]] DeathbringsGaming
+Admin=76561198390361495:Whitelist // [[ROM]] Mattcha
+Admin=76561198020109991:Whitelist // [[ROM]] No_Chance
+Admin=76561198158471621:Whitelist // [[ROM]] Phirn
+Admin=76561198369247215:Whitelist // [[ROM]] Sebastians_Hell
+Admin=76561198153749806:Whitelist // [[ROM]] ViperActual
+Admin=76561198041914020:Whitelist // [[ROM]] WickActual
+Admin=76561197994851876:Whitelist // [[ROM]] wolfgnads
