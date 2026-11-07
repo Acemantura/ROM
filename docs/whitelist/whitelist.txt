@@ -33,3 +33,4 @@ Admin=76561198085374416:Whitelist // [[ROM]] MagicTux
 
 Admin=76561199821711371:Whitelist  //  [[ROM]] Hachebrown
 Admin=76561198140970033:Whitelist  //  [[ROM]] Vinyl
+Admin=76561198150015203:Whitelist  //  [[ROM]] Macho
